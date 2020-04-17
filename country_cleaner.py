@@ -1,8 +1,7 @@
   
 # country_cleaner.py
 """
-A mapping from country names in the JHU/CSSE dataset to those used by the
-Wikipedia page for country populations.
+Mapa de países
 """
 
 country_cleaner = {
